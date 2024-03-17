@@ -1,0 +1,516 @@
+Klucz	Nazwisko	Imię	Płeć	Ulica	NrDomu	KodPocztowy	Miejscowość
+1598623	Kusztelak	Paulina
+15702	Okołowicz	Bernadeta Julia
+15245	De Franze	Maja
+1056	Kiełbasa-Kożuchowska	Matylda
+1020	Gę bka	Agnieszka	K	Sierakowska	23	60-367	Poznań
+1062	Gó rska	Kinga	K	Oświecenia	64	61-209	Poznań
+1206	Szewczyk	Damian	M	Krzywoustego	4	63-300	Pleszew
+1252	Zielonka	Renata	K	1 Maja	1	64-100	Leszno
+1286	Moroz	Przemysław	M	Mała Poznańska	1	64-610	Rogoźno
+1357	Paterek	Krzysztof	M	Moniuszki	30	66-600	Krosno Odrzańskie
+1364	Dułat	Jarosław	M	Racławicka	2	66-620	Gubin
+1414	Heppel	Patrycja	K	Jagiellońska	59	70-382	Szczecin
+1072	Michalak	Marta	K	Głuszyna	187	61-329	Poznań
+1063	Hładczuk	Katarzyna	K	Oświecenia	64	61-209	Poznań
+1126	Brojek	Agnieszka	K	Kościelna	2	62-050	Mosina
+1181	Ratajczak	Grzegorz	M	Chełmska	18	62-800	Kalisz
+1223	Przymuszała	Aleksandra	K	1000-lecia	1	63-600	Kępno
+130126	Chrzanowska	Agnieszka	K	Kujawska	18	64-920	Piła
+132258	Węgrzynowicz	Katarzyna	K	Sikorskiego	11	66-200	Świebodzin
+1337	Siarkowski	Marcin	M	Kazimierza Wielkiego	65	66-400	Gorzów Wielkopolski
+1340	Wójcicka	Paulina	K	Mościckiego	3	66-400	Gorzów Wielkopolski
+1451	Małycha	Katarzyna	K	Benesza	75	71-246	Szczecin
+1463	Walczak	Małgorzata	K	Malczewskiego	22	71-612	Szczecin
+1046	Kubacka	Monika	K	Berwińskiego	2/4	60-765	Poznań
+1164	Starczewska	Wiesława	K	11 Listopada	15	62-510	Konin
+1218	Lewkowicz	Krzysztof	M	Sikorskiego	19	63-500	Ostrzeszów
+1240	Semkło	Damian	M	Kościelna	4	63-800	Gostyń
+13903	Kaczmarek	Adrian	M	Podwale	16	68-200	Żary
+14338	Wachowski	Dariusz	M	Nałkowskiej	33	70-785	Szczecin
+14445	Kidon	Rafał	M	Chobolańska	20	71-023	Szczecin
+14502	Łaniewska	Sylwia	K	Ottona	8	71-242	Szczecin
+14644	Wołek	Grzegorz	M	Malczewskiego	22A	71-612	Szczecin
+1486	Trojnar	Marcin	M	Kilińskiego	11	72-100	Goleniów
+1001	Błażuk	Sylwester	M	Rawicka	12/14	60-113	Poznań
+1003	Cieślik	Andrzej	M	Pogodna	84	60-137	Poznań
+1014	Barwiak	Łukasz	M	Chociszewskiego	56	60-261	Poznań
+1025	Ostapczuk	Kamila	K	Kościerzyńska	76/78	60-466	Poznań
+1026	Pietrzak	Barbara	K	Druskienicka	32	60-476	Poznań
+1064	Joks	Łukasz	M	Jagiellońska	128	61-223	Poznań
+1260	Lewkowicz	Kamila	K	Kurpińskiego	2	64-100	Leszno
+1383	Bil	Michał	M	11 Listopada	33	68-200	Żary
+1394	Kubiak	Wiesław	M	Kilińskiego	8	69-100	Słubice
+1406	Tomaszewska	Ewa	K	Małkowskiego	12	70-306	Szczecin
+1484	Thal	Małgorzata	K	Owocowa	5	72-015	Police
+1502	Różycka	Alicja	K	Narutowicza	10	72-600	Świnoujście
+1504	Seweryn	Tomasz	M	Białoruska	2	72-602	Świnoujście
+1027	Piosik	Marta	K	Chojnicka	57	60-480	Poznań
+1034	Utkowski	Stanisław	M	Drzymały	4/6	60-613	Poznań
+1082	Garbaciak	Wojciech	M	Sikorskiego	29	61-536	Poznań
+1103	Dybcio	Joanna	K	Gołębia	8	61-834	Poznań
+1144	Arcisz	Andrzej	M	Paczkowskiego	13	62-200	Gniezno
+1165	Staszak	Jacek	M	Błaszaka	4	62-510	Konin
+1198	Krauze	Olga	K	20 Października	2	63-000	Środa Wielkopolska
+1228	Widlarz	Dawid	M	Jagiełły	4	63-700	Krotoszyn
+1261	Lisiewicz	Jarosław	M	Narutowicza	74	64-100	Leszno
+1418	Kubiak	Arkadiusz	M	Rayskiego	9	70-426	Szczecin
+1422	Miszczyszyn	Patrycja	K	Małopolska	22	70-515	Szczecin
+1469	Jarosiewicz	Bartosz	M	Pokoju	48	71-739	Szczecin
+1511	Górski	Paweł	M	Kuśnierzy	7	73-110	Stargard Szczeciński
+1006	Karolczyk	Agnieszka	K	Newtona	2	60-161	Poznań
+1007	Latarowska	Julita	K	Małoszyńska	38	60-176	Poznań
+1028	Piotrowski	Piotr	M	Chojnicka	57	60-480	Poznań
+1035	Wątor	Paweł	M	Drzymały	4/6	60-613	Poznań
+1043	Flis	Dawid	M	Jana III Sobieskiego	105	60-688	Poznań
+1136	Marczak	Marta	K	Reja	10	62-100	Wągrowiec
+1191	Bystra	Mariola	K	Kościuszki	10	62-800	Kalisz
+1274	Zając	Przemysław	M	Górzycka	1	64-400	Międzychód
+1294	Surynt	Przemysław	M	Paderewskiego	13	64-800	Chodzież
+1310	Małodobra	Emilia	K	Kingi	1	65-215	Zielona Góra
+1371	Kubiak	Jarosław	M	22 Lipca	12	67-120	Kożuchów
+1403	Rzepa	Krzysztof	M	Kusocińskiego	3	70-237	Szczecin
+1483	Starek	Paulina	K	Sikorskiego	8	72-010	Police
+1008	Łuczyński	Mateusz	M	Małoszyńska	38	60-176	Poznań
+1100	Wolny	Irmina	K	Kutrzeby	8	61-719	Poznań
+1114	Potocka	Emilia	K	Klasztorna	12	62-010	Pobiedziska
+1194	Gągorowski	Paweł	M	Polna	17	62-800	Kalisz
+1201	Musiński	Grzegorz	M	Kościuszki	10A	63-000	Środa Wielkopolska
+1225	Tomczyk	Marek	M	23 Stycznia	20	63-700	Krotoszyn
+1299	Zarzycki	Daniel	M	Grabowa	18	64-920	Piła
+1321	Węclewicz	Katarzyna	K	Chopina	1	66-200	Świebodzin
+1456	Skalski	Paweł	M	Niemierzyńska	17	71-441	Szczecin
+1462	Wąchocz	Sławomir	M	Dubois	38/41	71-610	Szczecin
+1488	Żłobiński	Marek	M	Paderewskiego	2A	72-100	Goleniów
+1507	Wójcik	Konrad	M	Skalista	24	72-722	Szczecin
+1079	Wiśniewska	Natalia	K	Grabowa	33	61-473	Poznań
+1116	Rutkowski	Maciej	M	Kwaśniewskiego	2	62-020	Swarzędz
+1121	Wojnarowski	Przemysław	M	Polna	21	62-020	Swarzędz
+1178	Piasecki	Mateusz	M	25 Pułku Artylerii	10	62-800	Kalisz
+1253	Zygmunt	Judyta	K	Jana Pawła II	10	64-100	Leszno
+1333	Krzyżanowska	Elżbieta	K	Dunikowskiego	5	66-400	Gorzów Wielkopolski
+1370	Klocek	Witold	M	Parafialna	4B	67-100	Nowa Sól
+1372	Kuśnierek	Angelika	K	Chopina	11	67-120	Kożuchow
+1424	Młynarczak	Tomasz	M	Mariacka	1	70-547	Szczecin
+1452	Melson	Kamil	M	Reymonta	23	71-276	Szczecin
+1487	Zielińska	Kamila	K	Niepodległości	1	72-100	Goleniów
+1489	Delinowski	Marcin	M	Boh. Warszawy	78	72-200	Nowogard
+1518	Maczkowski	Marek	M	Kościuszki	17	74-100	Gryfino
+1133	Kubas	Magdalena	K	Klasztorna	19	62-100	Wągrowiec
+1175	Konefon	Damian	M	Parkowa	3	62-700	Turek
+1213	Kaczmarek	Nina	K	Grabowska	1-3	63-400	Ostrów Wielkopolski
+1246	Szczepaniak	Klaudia	K	27 Stycznia	1	64-000	Kościan
+1272	Sych	Dorota	K	Północna	25	64-300	Nowy Tomyśl
+1302	Chrzanowska	Dorota	K	Mariana Buczka	11	64-920	Piła
+1307	Korotusz	Anna	K	Chopina	15A	65-031	Zielona Góra
+1392	Korwek	Rafał	M	Bohaterów Warszawy	3	69-100	Słubice
+1398	Mielniczak	Nikodem	M	Dunikowskiego	1	70-123	Szczecin
+1457	Stróżyk	Tomasz	M	Łabędzia	4	71-453	Szczecin
+1032	Skwarek	Agnieszka	K	Janickiego	22	60-542	Poznań
+1083	Jaroszko	Anna	K	28 Czerwca 1956	135/147	61-545	Poznań
+1150	Jadczak	Anna	K	Kościuszki	24	62-300	Września
+1196	Kawecki	Przemysław	M	Robotnicza	5	62-800	Kalisz
+1217	Lehmann	Przemysław	M	Partyzancka	15	63-400	Ostrów Wielkopolski
+1235	Kot	Dorota	K	Klasztorna	39	63-720	Koźmin Wielkopolski
+1237	Pacyna	Sebastian	M	Graniczna	1	63-800	Gostyń
+1295	Trubiłowicz	Aron	M	Niepodległości	18	64-920	Piła
+1308	Kuropatwa	Tomasz	M	Chopina	18A	65-032	Zielona Góra
+1393	Król	Mateusz	M	Bohaterów Warszawy	3	69-100	Słubice
+1435	Zacharjasz	Katarzyna	K	Pomorska	150	70-812	Szczecin
+1458	Szewczyk	Maciej	M	Łabędzia	4	71-453	Szczecin
+1470	Jaszczyszyn	Agnieszka	K	Duńska	43	71-785	Szczecin
+1012	Sokol	Anna	K	Klaudyny Potockiej	38	60-211	Poznań
+1123	Zawada	Bartosz	M	Dworcowa	11	62-035	Kornik
+1129	Gigiel	Przemysław	M	Chopina	26	62-065	Grodzisk Wielkopolski
+1132	Kazus	Jacek	M	Janowiecka	22	62-100	Wągrowiec
+1179	Piglas	Lucyna	K	3 Maja	16	62-800	Kalisz
+1195	Golla	Radosław	M	Pomorska	7	62-800	Kalisz
+1204	Ratajczak	Urszula	K	Kościuszki	25	63-200	Jarocin
+1219	Marcinkowska	Dominika	K	Łąkowa	1	63-500	Ostrzeszow
+1267	Polec	Marta	K	Marii Konopnickiej	1	64-200	Wolsztyn
+1335	Mical	Piotr	M	Grobla	68A	66-400	Gorzów Wielkopolski
+1351	Hałas	Kamil	M	Słowackiego	14	66-500	Strzelce Krajeńskie
+1388	Wójcicki	Bartłomiej	M	Partyzantów	9	68-200	Żary
+1395	Kukla	Krzysztof	M	Niepodległości	23	69-100	Słubice
+1459	Szmanda	Kamila	K	Robotnicza	5	71-472	Szczecin
+1009	Mitulski	Sławomir	M	Ławica	3	60-186	Poznań
+1013	Szymanowski	Mateusz	M	Jarochowskiego	62	60-249	Poznań
+1125	Bania	Piotr	M	Dworcowa	11	62-036	Kórnik
+1130	Grzelak	Emilia	K	Chopina	26	62-065	Grodzisk Wielkopolski
+1174	Kędziora	Monika	K	3 Maja	29	62-700	Turek
+1185	Wojciechowska	Elżbieta	K	Grodzka	1	62-800	Kalisz
+1276	Żmuda	Aneta	K	Słowackiego	3	64-400	Międzychód
+1356	Olejarz	Krystian	M	Bohaterów Wojska Polskiego	21	66-600	Krosno Odrzańskie
+1368	Judek	Natalia	K	Kościuszki	26	67-100	Nowa Sól
+1369	Kania	Tomasz	M	Matejki	29	67-100	Nowa Sól
+1382	Wołek	Elżbieta	K	Pomorska	7	68-100	Żagań
+1441	Hylak	Artur	M	Piaseczna	40	70-893	Szczecin
+1449	Lubczyńska	Agnieszka	K	Klonowica	3	71-241	Szczecin
+1494	Jagielik	Damian	M	Rodziewiczówny	6	72-300	Gryfice
+1039	Bargiel	Agnieszka	K	Bolesława Chrobrego	107	60-681	Poznań
+1070	Maciejewska	Małgorzata	K	Lecha	37	61-294	Poznań
+1099	Wojciechowski	Łukasz	M	Niepodległości	32	61-714	Poznań
+1112	Napierała	Natalia	K	Rolna	1B	62-004	Czerwonak
+1151	Jeznach	Ireneusz	M	Słowackiego	41	62-300	Września
+1173	Kaczmarek	Łukasz	M	Piaski	3	62-640	Barlogi
+1269	Rzepowska	Anna	K	Poniatowskiego	1	64-200	Wolsztyn
+1285	Matras	Mateusz	M	Kościuszki	28	64-610	Rogozno
+1305	Ganczar	Mateusz	M	Chopina	36	64-980	Trzcianka
+1314	Sroka	Marcin	M	Jaskolcza	66	65-518	Zielona Góra
+1338	Szczepaniak	Sabina	K	Kobylogorska	110	66-400	Gorzów Wielkopolski
+1400	Odrobny	Mariusz	M	3 Maja	4/7	70-214	Szczecin
+1423	Młodystach	Natalia	K	Grodzka	23	70-543	Szczecin
+1501	Pijajko	Monika	K	Matejki	35	72-600	Świnoujście
+1030	Pryputniewicz	Paweł	M	Słowackiego	54	60-521	Poznań
+1047	Lewkowicz	Monika	K	Matejki	8/10	60-766	Poznań
+1096	Wawrowicz	Rafał	M	Romana Brandstaettera	1	61-659	Poznań
+1127	Fleszar	Maciej	M	3 Maja	5	62-065	Grodzisk Wielkopolski
+1162	Seklecki	Jacek	M	Leopolda Staffa	5	62-505	Konin
+1203	Pokorski	Dawid	M	Niepodległości	8	63-200	Jarocin
+1257	Gołek	Paweł	M	Gronowska	45	64-100	Leszno
+1293	Słowik	Rafał	M	Kochanowskiego	1	64-800	Chodziez
+1306	Grygorcewicz	Krzysztof	M	Chopina	36	64-980	Trzcianka
+1348	Wierzbicka	Emilia	K	Kościuszki	28	66-500	Strzelce Krajeńskie
+1478	Pankiewicz	Mariusz	M	Piaskowa	99	72-009	Police
+1492	Górny	Wojciech	M	Poniatowskiego	17	72-200	Nowogard
+1005	Królik	Alicja	K	Jawornicka	1	60-161	Poznań
+1052	Szłapka	Grzegorz	M	Nieszawska	21	61-022	Poznań
+1122	Wołoszczuk	Małgorzata	K	Piasta	1	62-025	Kostrzyn
+1172	Kaczkowska	Julianna	K	Poniatowskiego	22	62-600	Kolo
+1244	Sommer	Wioletta	K	Grota-Roweckiego	9F	63-900	Rawicz
+1256	Czekała	Krzysztof	M	Bolesława Prusa	33	64-100	Leszno
+1303	Chrzanowski	Piotr	M	Roosevelta	12	64-920	Piła
+1349	Bartkowicz	Radosław	M	Kościuszki	29	66-500	Strzelce Krajeńskie
+1417	Kotyła	Monika	K	Mazurska	40	70-424	Szczecin
+1493	Hajducka	Anna	K	3 Maja	8	72-300	Gryfice
+1040	Bazewicz	Adam	M	Bolesława Śmiałego	107	60-682	Poznań
+1084	Kopczyński	Marcin	M	Różana	1/3	61-577	Poznań
+1134	Lenartowicz	Mateusz	M	Kolejowa	14	62-100	Wągrowiec
+1137	Nowicka	Justyna	K	Chrobrego	12	62-200	Gniezno
+1214	Kobusiński	Piotr	M	Kościuszki	5	63-400	Ostrów Wielkopolski
+1243	Sommer	Krystian	M	Grota-Roweckiego	6	63-900	Rawicz
+1262	Lisiewicz	Krzysztof	M	Metziga	14	64-100	Leszno
+1270	Smalec	Adrian	M	Poniatowskiego	7	64-200	Wolsztyn
+1271	Sojka	Karolina	K	3 Stycznia	12	64-300	Nowy Tomysl
+1377	Rychla	Magdalena	K	Sobieskiego	58	67-300	Szprotawa
+1378	Sobota	Marta	K	Dworcowa	49	68-100	Żagań
+1380	Wichlacz	Marek	M	Nocznickiego	18	68-100	Żagań
+1408	Wołek	Rafał	M	Piastów	12	70-331	Szczecin
+1454	Parfeniuk	Krzysztof	M	Jaworowa	41	71-382	Szczecin
+1017	Wróż	Adam	M	Grunwaldzka	154	60-309	Poznań
+1036	Wiśniewska	Alicja	K	Sochaczewska	3	60-645	Poznań
+1159	Rosołek	Tomasz	M	Mickiewicza	11	62-500	Konin
+1168	Brambor	Cezary	M	Kolejowa	2	62-510	Konin
+1177	Małycha	Paweł	M	Dziadowice		62-709	Dziadowice
+1182	Sobczak	Nina	K	Ciasna	16	62-800	Kalisz
+1264	Mendak	Marta	K	Rumuńska	6	64-100	Leszno
+1345	Pilarczyk	Bartłomiej	M	Kościuszki	7	66-470	Kostrzyn Odrzański
+1407	Urbanowicz	Radosław	M	Piastów	7	70-327	Szczecin
+1409	Bojek	Paweł	M	Bolesława Śmiałego	42-43	70-351	Szczecin
+1499	Nowak	Katarzyna	K	Leśna	17	72-500	Międzyzdroje
+1505	Siepielska	Magdalena	K	Norweska	12	72-602	Świnoujście
+1514	Łukasiewicz	Piotr	M	Popiela	2	73-110	Stargard Szczeciński
+1024	Napierała	Anna	K	Leśnowolska	35	60-452	Poznań
+1049	Moras	Katarzyna	K	Norwida	21	60-867	Poznań
+1065	Kęsicka	Krystyna	K	Rusa	56	61-245	Poznań
+1085	Krzeszowski	Krzysztof	M	Boranta	2	61-608	Poznań
+1192	Czekała	Agnieszka	K	Mickiewicza	11	62-800	Kalisz
+1251	Zielonka	Mateusz	M	Kolejowa	3	64-020	Czempiń
+1266	Okuniewska	Dorota	K	5 Stycznia	14	64-200	Wolsztyn
+1288	Niesyn	Piotr	M	Kościuszki	92	64-700	Czarnków
+1355	Ogrodnik	Krystian	M	Portowa	1	66-530	Drezdenko
+1362	Cicha	Weronika	K	Piastowska	22	66-620	Gubin
+1479	Pankiewicz	Piotr	M	Cisowa	2	72-010	Police
+1002	Borowczak	Paweł	M	Bosa	9	60-125	Poznań
+1055	Urbański	Kamil	M	Leszka	42	61-062	Poznań
+1077	Wardyn	Milena	K	Jesionowa	14	61-432	Poznań
+1107	Kowalczyk	Katarzyna	K	Rybaki	17	61-883	Poznań
+1111	Merda	Patryk	M	7 Pułku Strzelców Konnych	3	62-003	Biedrusko
+1138	Piasecki	Kamil	M	Cymsa	14	62-200	Gniezno
+1248	Wiśniak	Elwira	K	Mickiewicza	12	64-000	Kościan
+1259	Karbowniczek	Piotr	M	St. Wyszyńskiego	57	64-100	Leszno
+1289	Opieczonek	Karolina	K	Kościuszki	92	64-700	Czarnkow
+1334	Ludwikowski	Andrzej	M	Estkowskiego	3	66-400	Gorzów Wielkopolski
+1341	Zamiara	Agnieszka	K	Nowa	7	66-400	Gorzów Wielkopolski
+1363	Daniłowicz	Dawid	M	Piastowska	26	66-620	Gubin
+1437	Darmochwał	Natalia	K	Portowa	21	70-833	Szczecin
+1498	Muniak	Adrian	M	Kolejowa	33	72-500	Międzyzdroje
+1500	Pakoca	Ariel	M	Grunwaldzka	47	72-600	Świnoujście
+1044	Gawęda	Agnieszka	K	Obornicka	314	60-691	Poznań
+1066	Kochanowski	Janusz	M	Stare Zegrze	1	61-249	Poznań
+1119	Szkudlarek	Anna	K	Kościuszkowców	4	62-020	Swarzędz
+1170	Gluszcz	Przemysław	M	Kolejowa	5	62-600	Kolo
+1184	Wit	Adriana	K	Fabryczna	13-15	62-800	Kalisz
+1220	Marynowska	Anna	K	Piastowska	3	63-500	Ostrzeszow
+1249	Wota	Maciej	M	Mickiewicza	12	64-000	Kościan
+1428	Piwecka	Sylwia	K	Letniskowa	1	70-763	Szczecin
+1432	Szczeglik	Beata	K	Rydla	49	70-783	Szczecin
+1438	Gąsiorek	Tomasz	M	Bośniacka	7	70-842	Szczecin
+1460	Tomaszewska	Iwona	K	Cyryla i Metodego	43	71-540	Szczecin
+1468	Gierulska	Ewelina	K	Grzymińska	6	71-711	Szczecin
+1041	Bobaryko	Ewelina	K	Stefana Batorego	101	60-687	Poznań
+1092	Pietras	Alicja	K	Kosmonautów	111	61-642	Poznań
+1139	Pieczarka	Jacek	M	Czarnieckiego	7	62-200	Gniezno
+1160	Sardakowska	Anita	K	Mickiewicza	14	62-500	Konin
+1163	Sobański	Krzysztof	M	Łężyńska	9	62-506	Konin
+1221	Mauer	Piotr	M	Piastowska	3	63-500	Ostrzeszow
+1226	Tomiak	Magdalena	K	Powstańców Wielkopolskich	13	63-700	Krotoszyn
+1229	Zdanowicz	Bartłomiej	M	Jagiełły	4	63-700	Krotoszyn
+1275	Zelek	Arkadiusz	M	Gwardii Ludowej	6B	64-400	Międzychód
+1278	Dziaduszek	Andrzej	M	Kołłątaja	1	64-500	Szamotuły
+1365	Helmińska	Oliwia	K	Botaniczna	22	67-100	Nowa Sól
+1420	Mańczak	Monika	K	Obrońców Stalingradu	14	70-497	Szczecin
+1425	Modrzyk	Bartłomiej	M	Rymarska	22A	70-702	Szczecin
+1480	Rechul	Patryk	M	Fabryczna	21	72-010	Police
+1076	Tomaszewska	Krystyna	K	Rzeczypospolitej	111	61-398	Poznań
+1095	Rzeszuto	Magdalena	K	Brandstaettera	1	61-659	Poznań
+1115	Radzik	Monika	K	Kostrzyńska	23	62-010	Pobiedziska
+1167	Bot	Stanisław	M	Stefana Wyszyńskiego	44	62-510	Konin
+1171	Juźwikowska	Daria	K	Mickiewicza	14	62-600	Kolo
+1227	Tomiak	Tomasz	M	Powstańców Wielkopolskich	13	63-700	Krotoszyn
+1250	Zdanowicz	Sławomir	M	Piastowska	47	64-000	Kościan
+1281	Koltko	Dariusz	M	Czarnkowska	57	64-600	Oborniki
+1336	Pawlak	Eryk	M	Gwiaździsta	14	66-400	Gorzów Wielkopolski
+1384	Buda	Maciej	M	9 Maja	8	68-200	Żary
+1426	Modrzyk	Tomasz	M	Jodłowa	21	70-722	Szczecin
+1512	Grzegorczyk	Andrzej	M	Limanowskiego	9	73-110	Stargard Szczeciński
+1516	Markulak	Szczepan	M	Obrońców Westerplatte	1	73-200	Choszczno
+1075	Tatarynowicz	Sławomir	M	Rzeczypospolitej	44	61-395	Poznań
+1146	Chądzyńska	Agnieszka	K	Powstańców Wielkopolskich	16	62-200	Gniezno
+1154	Kubicki	Dariusz	M	Szkolna	14	62-400	Słupca
+1158	Putynkowska	Agnieszka	K	Kolska	2	62-500	Konin
+1200	Krzemiński	Tomasz	M	Kosynierów	2B	63-000	Środa Wielkopolska
+1245	Stoksik	Paweł	M	Mickiewicza	16	63-900	Rawicz
+1311	Nowicki	Przemysław	M	Aliny	17	65-329	Zielona Góra
+1386	Felińska	Ewa	K	Częstochowska	15	68-200	Żary
+1421	Marciniak	Jolanta	K	H. Pobożnego	2	70-507	Szczecin
+1445	Kubik	Paweł	M	Brodnicka	10	71-044	Szczecin
+1455	Sadkowska	Barbara	K	Felczaka	13	71-417	Szczecin
+1503	Senyk	Piotr	M	Piastowska	55	72-600	Świnoujście
+1023	Marszałek	Dawid	M	Hangarowa	14	60-409	Poznań
+1110	Merda	Kamil	M	Powstańców Wielkopolskich	3	61-895	Poznań
+1149	Hańba	Magdalena	K	Kosynierów	32	62-300	Września
+1155	Nowicka	Kamila	K	Szkolna	14	62-400	Słupca
+1161	Sarnowska	Magdalena	K	Fikusowa	8	62-502	Konin
+1241	Skora	Krzysztof	M	Lipowa	5	63-800	Gostyn
+1283	Madej	Marek	M	Obrzycka	88	64-600	Oborniki
+1313	Sroka	Filip	M	Piastowska	9	65-515	Zielona Góra
+1385	Dudek	Magdalena	K	Broni Pancernej	8	68-200	Żary
+1401	Piwecka	Anna	K	Józefa Sowińskiego	78	70-236	Szczecin
+1416	Korach	Wioletta	K	Mickiewicza	23	70-383	Szczecin
+1447	Linowiecka	Marta	K	Czorsztyńska	35	71-201	Szczecin
+1061	Górny	Zbigniew	M	Piastowskia	106	61-164	Poznań
+1074	Palmowski	Grzegorz	M	Armii Krajowej	100	61-381	Poznań
+1118	Stec	Przemysław	M	Czwartaków	1	62-020	Swarzędz
+1186	Wrobel	Marcin	M	Hanki Sawickiej	3	62-800	Kalisz
+1202	Oczujda	Grzegorz	M	Lipowa	9	63-000	Środa Wielkopolska
+1232	Cichy	Mirosław	M	Szkolna	19	63-700	Krotoszyn
+1263	Mały	Mateusz	M	Komeńskiego	1	64-100	Leszno
+1282	Kwiatkowski	Łukasz	M	Mickiewicza	3	64-600	Oborniki
+1291	Równicki	Stanisław	M	Powstańców Wielkopolskich	83/85	64-733	Drawsko
+1304	Frączak	Justyna	K	Broniewskiego	2	64-980	Trzcianka
+1339	Szymczak	Judyta	K	Kosynierów Gdyńskich	8	66-400	Gorzów Wielkopolski
+1410	Cicha	Paulina	K	Ofiar Oświęcimia	14	70-351	Szczecin
+1427	Olszowska	Adriana	K	Floriana Szarego	12	70-743	Szczecin
+1029	Polaczek	Anna	K	Sanatoryjna	2	60-480	Poznań
+1058	Antkowiak	Paweł	M	Os. Piastowskie	27	61-149	Poznań
+1124	Bagińska	Joanna	K	Armii Krajowej	11	62-036	Kórnik
+1131	Kamiński	Maciej	M	Tadeusza Kutrzeby	3	62-095	Murowana Goślina
+1187	Wyrwa	Jolanta	K	Harcerska	1	62-800	Kalisz
+1207	Wiszniewska	Anna	K	Ogrodowa	2	63-300	Pleszew
+1268	Puchalski	Łukasz	M	Mickiewicza	4	64-200	Wolsztyn
+1296	Turek	Ewelina	K	Brzozowa	4	64-920	Piła
+1309	Makarska	Ewelina	K	Lisia	37	65-098	Zielona Góra
+1373	Michalak	Agnieszka	K	Koszarowa		67-120	Kożuchow
+1442	Janeczek	Magdalena	K	Kablowa		70-895	Szczecin
+1471	Jaśniak	Krzysztof	M	Dąbrówki	10	71-826	Szczecin
+1051	Słowiński	Szymon	M	Harcerska	3	61-011	Poznań
+1060	Dzierżek	Sylwia	K	Os. Piastowskie	65	61-156	Poznań
+1068	Kurpisz	Michał	M	Tysiąclecia	43	61-255	Poznań
+1088	Nowak	Joanna	K	Sarmacka	105	61-616	Poznań
+1152	Konjor	Jerzy	M	Armii Krajowej	27	62-400	Słupca
+1180	Początek	Karolina	K	Budowlanych	2	62-800	Kalisz
+1317	Suski	Remigiusz	M	Francuska	25A	65-943	Zielona Góra
+1326	Fabiszak	Damian	M	Mickiewicza	5	66-300	Międzyrzecz
+1353	Łotysz	Łukasz	M	Poznańska	5	66-520	Dobiegniew
+1443	Jedliński	Krzysztof	M	Kablowa	14	70-895	Szczecin
+1465	Zarzycki	Mariusz	M	Komuny Paryskiej	20	71-681	Szczecin
+1472	Krasowski	Łukasz	M	Dąbrówki	10	71-826	Szczecin
+1037	Woś	Justyna	K	Piątkowska	148	60-650	Poznań
+1078	Wilczak	Iwetta	K	Łozowa	53	61-448	Poznań
+1080	Beer	Patrycja	K	Dąbrówki	4-7	61-501	Poznań
+1086	Majorczyk	Dorota	K	W. Łokietka	104	61-616	Poznań
+1108	Krzyżaniak	Piotr	M	Krakowska	10	61-889	Poznań
+1157	Potocki	Wojciech	M	Kaliska	19	62-500	Konin
+1319	Szymczak	Sandra	K	Okrężna	4	66-200	Świebodzin
+1358	Andrzejewska	Agnieszka	K	Poznańska	88	66-600	Krosno Odrzańskie
+1379	Szuster	Kamila	K	Mickiewicza	5	68-100	Żagań
+1396	Łyskawa	Sabina	K	Budziszyńska	2	70-023	Szczecin
+1466	Zygmunt	Katarzyna	K	Komuny Paryskiej	20	71-681	Szczecin
+1467	Droszczak	Adrian	M	Hoża	25	71-699	Szczecin
+1506	Stryluk	Justyna	K	Sąsiedzka	13A	72-605	Świnoujście
+1033	Sochacki	Mirosław	M	Piękna	37	60-591	Poznań
+1109	Marciniak	Sylwester	M	Krakowska	17A	61-889	Poznań
+1113	Owczarzak	Aleksander	M	Gajowa	22	62-010	Pobiedziska
+1140	Świrski	Łukasz	M	Łubieńskiego	7	62-200	Gniezno
+1169	Dzumbelak	Emil	M	Konińska	18	62-511	Kramsk
+1210	Górgiel	Jan	M	Asnyka	26	63-400	Ostrów Wielkopolski
+1222	Prządka	Julian	M	Kaliska	5	63-505	Doruchów
+1238	Radkiewicz	Marek	M	Hutnika	3	63-800	Gostyń
+1279	Galat	Wojciech	M	Mickiewicza	9	64-500	Szamotuły
+1331	Kołtko	Dariusz	M	Dąbrowskiego	13	66-400	Gorzów Wielkopolski
+1387	Getner	Kamil	M	Okrzei	19	68-200	Żary
+1405	Sypniewski	Lech	M	Budzysza Wosia	8/9	70-273	Szczecin
+1431	Sołtysiak	Jacek	M	Seledynowa	50	70-781	Szczecin
+1022	Łabiak	Grzegorz	M	Dąbrowskiego	262/280	60-406	Poznań
+1038	Aniskiewicz	Anna	K	B. Chrobrego	105	60-681	Poznań
+1045	Głogowski	Paweł	M	Łukaszewicza	9/13	60-726	Poznań
+1048	Łabiak	Ewa	K	Bukowska	16	60-809	Poznań
+1081	Blandzi	Aleksandra	K	Prądzyńskiego	53	61-527	Poznań
+1098	Will	Marta	K	Wichrowe Wzgórze	119	61-699	Poznań
+1117	Sielska	Anna	K	Mielżyńskiego	1	62-020	Swarzędz
+1239	Rulkowska	Barbara	K	Hutnika	3	63-800	Gostyn
+1247	Tomkowicz	Łukasz	M	Konopnickiej	1	64-000	Kościan
+1254	Baranek	Natalia	K	Krasińskiego	22	64-100	Leszno
+1287	Mosiołek	Justyna	K	Seminarialna	16	64-610	Rogoźno
+1290	Równicki	Dominik	M	Piłka	24	64-733	Piłka
+1399	Nadobnik	Alicja	K	Orawska	1	70-131	Szczecin
+1474	Kulasz	Dawid	M	Kamienna	22	71-883	Szczecin
+1004	Głowania	Kinga	K	Galileusza	14	60-158	Poznań
+1021	Król	Marcin	M	Promyk	4	60-393	Poznań
+1053	Szmicel	Eugeniusz	M	Inowrocławska	19	61-044	Poznań
+1067	Kurowska	Marta	K	Orła Białego	120	61-251	Poznań
+1087	Matuszewska	Ewelina	K	Władysława Łokietka	104	61-616	Poznań
+1120	Tom	Joanna	K	Mielżyńskiego	1	62-020	Swarzędz
+1128	Fornal	Agnieszka	K	Bukowska	18	62-065	Grodzisk Wielkopolski
+1197	Konopacka	Joanna	K	Serbinowska	22	62-800	Kalisz
+1242	Socha	Michał	M	Dąbrowskiego	33	63-900	Rawicz
+1277	Bakan	Katarzyna	K	Kapłańska	18	64-500	Szamotuły
+1328	Jarząbek	Agata	K	Konstytucji 3 Maja	44	66-400	Gorzów Wielkopolski
+1476	Marszałek	Piotr	M	Kresowa	15	72-009	Police
+1519	Noga	Magdalena	K	Łużycka	22	74-100	Gryfino
+1018	Ziubrzyński	Sławomir	M	Bułgarska	63/65	60-320	Poznań
+1089	Nowakowski	Tobiasz	M	Przełajowa	4	61-622	Poznań
+1106	Kostrzewa	Magdalena	K	Garbary	24	61-867	Poznań
+1143	Antkowiak	Barbara	K	Orła Białego	18	62-200	Gniezno
+1199	Królik	Michał	M	Dąbrowskiego	50	63-000	Środa Wielkopolska
+1284	Marecik	Katarzyna	K	Piłsudskiego	28	64-600	Oborniki
+1318	Szymańska	Anna	K	Łużycka	33	66-200	Świebodzin
+1324	Roman	Karol	M	Konstytucji 3 Maja	60	66-300	Międzyrzecz
+1361	Chmura	Marta	K	Kresowa	48	66-620	Gubin
+1389	Jakubiak	Małgorzata	K	Inwalidów	12	68-200	Żary
+1419	Kubik	Wojciech	M	Wojska Polskiego	111	70-483	Szczecin
+1436	Żurek	Piotr	M	Miernicza	10	70-823	Szczecin
+1440	Hinc	Mateusz	M	Bałtycka	1A	70-880	Szczecin
+1473	Kufel	Danuta	K	Karpacka	29	71-872	Szczecin
+1482	Sobków	Marta	K	Siedlecka	72-010	Police	
+1031	Saran	Marcin	M	Dąbrowskiego	73	60-523	Poznań
+1101	Blandzi	Sławomir	M	Garbary	82	61-758	Poznań
+1147	Chądzyńska	Edyta	K	Mieszka I	20	62-220	Gniezno
+1166	Benyskiewicz	Paweł	M	Bydgoska	2	62-510	Konin
+1188	Zawadzka	Katarzyna	K	Karpacka	3	62-800	Kalisz
+1316	Sumiński	Karol	M	Wojska Polskiego	116	65-762	Zielona Góra
+1325	Błauciak	Karolina	K	Konstytucji 3 Maja	60	66-300	Międzyrzecz
+1342	Gibowska	Bogumiła	K	Przemysłowa	22	66-400	Gorzów Wielkopolski
+1344	Rybarczyk	Krzysztof	M	Banaszaka	1	66-470	Kostrzyn Odrzański
+1381	Wołek	Beata	K	Orląt Lwowskich	4	68-100	Żagań
+1453	Omieczyńska	Edyta	K	Siemiradzkiego	2	71-331	Szczecin
+1477	Muniak	Kazimierz	M	Kresowa	6	72-009	Police
+1517	Marzoł	Malwina	K	Iwaszkiewicza	70	74-100	Gryfino
+1520	Owczarek	Karolina	K	Łużycka	82	74-100	Gryfino
+1019	Figura	Agnieszka	K	Przybyszewskiego	37	60-356	Poznań
+1042	Domin	Magdalena	K	J. III Sobieskiego	114	60-688	Poznań
+1073	Natkańska	Anna	K	Baranowska	1	61-353	Poznań
+1141	Witek	Przemysław	M	Orzeszkowej	20	62-200	Gniezno
+1189	Brychcy	Rafał	M	Karpacka	3	62-800	Kalisz
+1236	Krajewska	Hanna	K	Kopernika	1	63-720	Koźmin Wielkopolski
+1292	Sarbak	Natalia	K	Sienkiewicza	1	64-761	Krzyż Wielkopolski
+1297	Zapotoczny	Adrian	M	Bydgoska	23	64-920	Piła
+1300	Benysek	Piotr	M	Krolowej Jadwigi	2	64-920	Piła
+1320	Urbański	Adam	M	Os. Łużyckie	28	66-200	Świebodzin
+1352	Poznański	Rafał	M	Gdańska	8	66-520	Dobiegniew
+1376	Piwecka	Karolina	K	Mikołaja Kopernika		67-300	Szprotawa
+1411	Groszek	Dawid	M	Piotra Ściegiennego	34/35	70-354	Szczecin
+1434	Wojtek	Karina	K	Dąbska	105	70-789	Szczecin
+1059	Broniarczyk	Mariusz	M	Os. Piastowskie	65	61-156	Poznań
+1071	Masztalerz	Karolina	K	Darzyborska	1	61-303	Poznań
+1097	Wiernowolski	Dominik	M	Przyjaźni	127	61-684	Poznań
+1153	Kowalewski	Jacek	M	Kopernika	13	62-400	Słupca
+1211	Juźwik	Arkadiusz	M	Batorego	2	63-400	Ostrów Wielkopolski
+1280	Kamiński	Piotr	M	Piotra Skargi	2	64-500	Szamotuły
+1346	Habirek	Marcin	M	Mikołaja Reja	32 	66-470	Kostrzyń Odrzański
+1350	Borkowski	Robert	M	J. Popiełuszki	31	66-500	Strzelce Krajeńskie
+1354	Myczko	Krystian	M	Wolności	8	66-530	Drezdenko
+1367	Horodyski	Marcin	M	Kasprowicza	8	67-100	Nowa Sól
+1404	Suchodolski	Tomasz	M	Królowej Jadwigi	29	70-262	Szczecin
+1491	Gołębiowska	Marcelina	K	Generała Bema	41	72-200	Nowogard
+1495	Jursza	Aleksandra	K	Sienkiewicza	10A	72-300	Gryfice
+1056	Woś	Magdalena	K	Piwna	1	61-065	Poznań
+1057	Wydra	Wojciech	M	Bydgoska	4	61-127	Poznań
+1069	Lipa	Joanna	K	Os. Czecha	59	61-288	Poznań
+1205	Sagan	Marta	K	M. Curie-Skłodowskiej	2	63-200	Jarocin
+1216	Kutnik	Paweł	M	Królowej Jadwigi	3	63-400	Ostrów Wielkopolski
+1224	Siwek	Klaudia	K	Sienkiewicza	21	63-600	Kępno
+1265	Odrobna	Kalina	K	Zaborowska	41	64-100	Leszno
+1298	Zapotoczny	Bartłomiej	M	Dembowskiego	4	64-920	Piła
+1315	Stryjas	Grzegorz	M	Batorego	70A	65-735	Zielona Góra
+1327	Grochowska	Monika	K	Kasztelańska	8	66-300	Międzyrzecz
+1366	Hepel	Martyna	K	Gimnazjalna	11	67-100	Nowa Sól
+1374	Nowak	Bartłomiej	M	Kopernika	37	67-300	Szprotawa
+1402	Rychla	Barbara	K	J. Sowińskiego	1	70-236	Szczecin
+1439	Grol	Ingrid	K	Przylesie	17	70-872	Szczecin
+1446	Kulus	Justyna	K	Mikołajczyka	20	71-075	Szczecin
+1054	Ślusarczyk	Tomasz	M	Mińska	32	61-049	Poznań
+1091	Pieczarka	Mateusz	M	Osiedle Pod Lipami	106	61-638	Poznań
+1145	Augustyniak	Mirosław	M	Pocztowa	11	62-200	Gniezno
+1148	Goryczko	Marek	M	Batorego	8	62-300	Września
+1176	Krawczyk	Mateusz	M	Sienkiewicza	3	62-700	Turek
+1234	Kornaszewska	Barbara	K	Glinki	11	63-720	Koźmin Wielkopolski
+1323	Ziemiański	Paweł	M	Długa	102	66-300	Międzyrzecz
+1359	Bajnog	Kamila	K	Pułaskiego	3	66-600	Krosno Odrzańskie
+1375	Omieczyński	Adam	M	Kopernika	37	67-300	Szprotawa
+1485	Tomczak	Przemysław	M	C. K. Norwida	1	72-100	Goleniów
+1496	Kwiatkowski	Ireneusz	M	M. Konopnickiej	19	72-400	Kamień Pomorski
+1497	Majewski	Roman	M	Katedralna	5	72-400	Kamień Pomorski
+1508	Żurawska	Magdalena	K	Zachodnia	A/15	73-100	Stargard Szczeciński
+1011	Senyczak	Anna	K	Głogowska	147	60-206	Poznań
+1090	Piątkowska	Karolina	K	Osiedle Pod Lipami	106	61-638	Poznań
+1093	Radwański	Artur	M	Zwycięstwa	101	61-643	Poznań
+1104	Grzeszczak	Bartosz	M	Cegielskiego	1	61-862	Poznań
+1135	Maćkowiak	Katarzyna	K	Krótka	4	62-100	Wągrowiec
+1208	Adam	Krzysztof	M	Osiedlowa	1	63-300	Pleszew
+1209	Bąk	Dawid	M	M. Konopnickiej	6	63-313	Chocz
+1312	Pentek	Kamila	K	Długa	13	65-401	Zielona Góra
+1329	Jurgielaniec	Adam	M	Bema	1	66-400	Gorzów Wielkopolski
+1347	Krochmal	Paulina	K	Sienkiewicza	6	66-470	Kostrzyn Odrzański
+1391	Kaczmarek	Ziemowit	M	Pułaskiego	4	68-205	Żary
+1429	Polańska	Ewelina	K	Młodzieży Polskiej	9	70-774	Szczecin
+1461	Utracki	Przemysław	M	Kazimierza Królewicza	63	71-551	Szczecin
+1481	Skowroński	Sławomir	M	Korczaka	27	72-010	Police
+1015	Walasek	Karolina	K	Głogowska	90	60-262	Poznań
+1094	Ruszczyńska	Ewa	K	Zwycięstwa	101	61-643	Poznań
+1105	Jagiela	Kamila	K	Kazimierza Wielkiego	17	61-863	Poznań
+1183	Stasik	Agnieszka	K	Długosza	14	62-800	Kalisz
+1190	Bujarska	Joanna	K	Kordeckiego	19	62-800	Kalisz
+1212	Kaczmarek	Anna	K	Bema	30	63-400	Ostrów Wielkopolski
+1215	Kubiak	Ewelina	K	Krotoszyńska	171	63-400	Ostrów Wielkopolski
+1230	Zok	Rafał	M	Ostrowska	49	63-700	Krotoszyn
+1360	Chłopek	Patrycja	K	Pułaskiego	3	66-600	Krosno Odrzańskie
+1412	Grol	Patryk	M	Jagiellońska	41	70-382	Szczecin
+1430	Rychły	Dariusz	M	Mączna	4	70-780	Szczecin
+1448	Linowiecki	Michał	M	Modra	11	71-220	Szczecin
+1509	Czajka	Mateusz	M	Ceglana	11	73-110	Stargard Szczeciński
+1515	Majewski	Dawid	M	Sienkiewicza	8	73-110	Stargard Szczeciński
+1010	Naskręt	Karolina	K	Dmowskiego	50	60-204	Poznań
+1016	Wolniewicz	Katarzyna	K	Głogowska	92	60-262	Poznań
+1102	Dąbek	Przemysław	M	Krysiewicza	7/8	61-825	Poznań
+1231	Brychcy	Daniel	M	Ostrowska	49	63-700	Krotoszyn
+1233	Dziewałtowska	Katarzyna	K	Sienkiewicza	9	63-700	Krotoszyn
+1255	Broczkowski	Radosław	M	Zygmunta Krasińskiego	2	64-100	Leszno
+1330	Kisiel	Bartłomiej	M	Chełmońskiego	1	66-400	Gorzów Wielkopolski
+1343	Gwozdz	Katarzyna	K	Puszkina	31	66-400	Gorzów Wielkopolski
+1413	Hartsch	Damian	M	Jagiellońska	58	70-382	Szczecin
+1475	Łukasiewicz	Magdalena	K	Kornela Makuszyńskiego		72-009	Police
+1490	Dzialak	Agata	K	Bema	41	72-200	Nowogard
+1510	Duchnicz	Renata	K	Kazimierza Wielkiego	17	73-110	Stargard Szczeciński
+1513	Iwański	Marcin	M	Majdanek	13	73-110	Stargard Szczeciński
